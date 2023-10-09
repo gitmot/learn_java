@@ -1,0 +1,43 @@
+﻿[Files]
+File0=H:\Downloads\Q1 Info VLK 23_24\CD-Sammlung\CD.java
+File1=H:\Downloads\Q1 Info VLK 23_24\CD-Sammlung\CD_Regal.java
+
+[Box:  - CD]
+X=651
+Y=265
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=16
+FontName=Segoe UI
+
+[Box:  - CD_Regal]
+X=49
+Y=23
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=16
+FontName=Segoe UI
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=1
+SortOrder=0
+ShowIcons=0
+ShowConnections=1
+Fontname=Segoe UI
+Fontsize=16
+ShowObjectDiagram=0
+
+[Connections]
+V0=CD_Regal#CD#Aggregation####0#0#0###0#0
+
+[Interactive]
+I0=
+
